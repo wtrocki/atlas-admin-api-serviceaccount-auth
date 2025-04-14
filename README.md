@@ -1,5 +1,7 @@
 # MongoDB Atlas Administration API — Service Account Authentication Demo
 
+Repository moved to https://github.com/mongodb-developer/atlas-admin-api-serviceaccount-auth/
+
 This repository demonstrates how to call the [MongoDB Atlas Administration API](https://www.mongodb.com/docs/atlas/api/) using Service Account authentication. 
 Service Accounts provide a new way to authenticate to Atlas using OAuth 2.0 with the Client Credentials flow. 
 
